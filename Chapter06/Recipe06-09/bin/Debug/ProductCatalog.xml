@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<productCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <catalogName>New Catalog</catalogName>
+  <expiryDate>2008-03-25</expiryDate>
+  <products>
+    <product id="">
+      <productName>Product 1</productName>
+      <productPrice>42.99</productPrice>
+      <inStock>false</inStock>
+    </product>
+    <product id="">
+      <productName>Product 2</productName>
+      <productPrice>202.99</productPrice>
+      <inStock>false</inStock>
+    </product>
+  </products>
+</productCatalog>

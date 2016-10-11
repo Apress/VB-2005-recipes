@@ -1,0 +1,3 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Receip13_07.Resources.resources
+obj\Debug\Receip13-07.vbproj.GenerateResource.Cache

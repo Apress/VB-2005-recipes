@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="productCatalog" nillable="true" type="ProductCatalog" />
+  <xs:complexType name="ProductCatalog">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="catalogName" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="expiryDate" type="xs:date" />
+      <xs:element minOccurs="0" maxOccurs="1" name="products" type="ArrayOfProduct" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="product" nillable="true" type="Product" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Product">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="productName" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="productPrice" type="xs:decimal" />
+      <xs:element minOccurs="1" maxOccurs="1" name="inStock" type="xs:boolean" />
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:integer" />
+  </xs:complexType>
+</xs:schema>

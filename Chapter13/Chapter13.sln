@@ -1,0 +1,114 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-01", "Recipe13-01\Recipe13-01.vbproj", "{140FDBCE-2EE9-45F0-852E-1B5B3B2AC5DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-02", "Recipe13-02\Recipe13-02.vbproj", "{053AEFE0-FF15-480C-84F5-16FCEE34A7C4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-03", "Recipe13-03\Recipe13-03.vbproj", "{738EC501-FEDE-4882-A863-D15F8336C029}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-04", "Recipe13-04\Recipe13-04.vbproj", "{4F4C6AD4-B4DF-4C19-A81A-4C7A609DC1A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-05", "Recipe13-05\Recipe13-05.vbproj", "{CD606093-4887-469E-B6B3-02A4AFE0834B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-06", "Recipe13-06\Recipe13-06.vbproj", "{25AD43B0-C1F0-4D8E-AC7F-9B1460DB0068}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-07", "Recipe13-07\Recipe13-07.vbproj", "{FE082DB1-2902-446A-8F00-2419942C66E7}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-08", "Recipe13-08\Recipe13-08.vbproj", "{8C862C78-F517-43E6-8798-A159049E1F68}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-09", "Recipe13-09\Recipe13-09.vbproj", "{681E05B4-4A7D-444E-A1C9-E2190CBBA8C6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe13-10", "Recipe13-10\Recipe13-10.vbproj", "{AB760BF9-976A-4EB7-BB4E-9D21B0E0DD50}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{140FDBCE-2EE9-45F0-852E-1B5B3B2AC5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140FDBCE-2EE9-45F0-852E-1B5B3B2AC5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140FDBCE-2EE9-45F0-852E-1B5B3B2AC5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140FDBCE-2EE9-45F0-852E-1B5B3B2AC5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053AEFE0-FF15-480C-84F5-16FCEE34A7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053AEFE0-FF15-480C-84F5-16FCEE34A7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053AEFE0-FF15-480C-84F5-16FCEE34A7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053AEFE0-FF15-480C-84F5-16FCEE34A7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738EC501-FEDE-4882-A863-D15F8336C029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738EC501-FEDE-4882-A863-D15F8336C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738EC501-FEDE-4882-A863-D15F8336C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738EC501-FEDE-4882-A863-D15F8336C029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4C6AD4-B4DF-4C19-A81A-4C7A609DC1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4C6AD4-B4DF-4C19-A81A-4C7A609DC1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4C6AD4-B4DF-4C19-A81A-4C7A609DC1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4C6AD4-B4DF-4C19-A81A-4C7A609DC1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD606093-4887-469E-B6B3-02A4AFE0834B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD606093-4887-469E-B6B3-02A4AFE0834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD606093-4887-469E-B6B3-02A4AFE0834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD606093-4887-469E-B6B3-02A4AFE0834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AD43B0-C1F0-4D8E-AC7F-9B1460DB0068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AD43B0-C1F0-4D8E-AC7F-9B1460DB0068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AD43B0-C1F0-4D8E-AC7F-9B1460DB0068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AD43B0-C1F0-4D8E-AC7F-9B1460DB0068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE082DB1-2902-446A-8F00-2419942C66E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE082DB1-2902-446A-8F00-2419942C66E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE082DB1-2902-446A-8F00-2419942C66E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE082DB1-2902-446A-8F00-2419942C66E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C862C78-F517-43E6-8798-A159049E1F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C862C78-F517-43E6-8798-A159049E1F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C862C78-F517-43E6-8798-A159049E1F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C862C78-F517-43E6-8798-A159049E1F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681E05B4-4A7D-444E-A1C9-E2190CBBA8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681E05B4-4A7D-444E-A1C9-E2190CBBA8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681E05B4-4A7D-444E-A1C9-E2190CBBA8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681E05B4-4A7D-444E-A1C9-E2190CBBA8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB760BF9-976A-4EB7-BB4E-9D21B0E0DD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB760BF9-976A-4EB7-BB4E-9D21B0E0DD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB760BF9-976A-4EB7-BB4E-9D21B0E0DD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB760BF9-976A-4EB7-BB4E-9D21B0E0DD50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

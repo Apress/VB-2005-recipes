@@ -1,0 +1,24 @@
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\obj\Release\Resources.resources
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\obj\Release\Recipe15-09.vbproj.GenerateResource.Cache
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\bin\Release\Recipe15-08.exe
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\bin\Release\Recipe15-08.pdb
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\bin\Release\Recipe15-08.xml
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\bin\Release\SampleData.dll
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\bin\Release\SampleData.pdb
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\bin\Release\SampleData.xml
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\obj\Release\Recipe15-08.exe
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\obj\Release\Recipe15-08.xml
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\Recipe15-09\obj\Release\Recipe15-08.pdb
+F:\Programming\Orcas\Chapter15\Recipe15-09\obj\Release\Recipe15-08.exe
+F:\Programming\Orcas\Chapter15\Recipe15-09\obj\Release\Recipe15-08.xml
+F:\Programming\Orcas\Chapter15\Recipe15-09\obj\Release\Recipe15-08.pdb
+F:\Programming\Orcas\Chapter15\Recipe15-09\bin\Release\Recipe15-08.exe
+F:\Programming\Orcas\Chapter15\Recipe15-09\bin\Release\Recipe15-08.pdb
+F:\Programming\Orcas\Chapter15\Recipe15-09\bin\Release\Recipe15-08.xml
+F:\Programming\Orcas\Chapter15\Recipe15-09\bin\Release\SampleData.dll
+F:\Programming\Orcas\Chapter15\Recipe15-09\bin\Release\SampleData.pdb
+F:\Programming\Orcas\Chapter15\Recipe15-09\bin\Release\SampleData.xml
+F:\Programming\Orcas\Chapter15\Recipe15-09\obj\Release\ResolveAssemblyReference.cache
+F:\Programming\Orcas\Chapter15\Recipe15-09\obj\Release\Resources.resources
+F:\Programming\Orcas\Chapter15\Recipe15-09\obj\Release\Recipe15-09.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+bin\Debug\Recipe10-10Shared.dll
+bin\Debug\Recipe10-10Shared.pdb
+bin\Debug\Recipe10-10Shared.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe10-10Shared.vbproj.GenerateResource.Cache
+obj\Debug\Recipe10-10Shared.dll
+obj\Debug\Recipe10-10Shared.xml
+obj\Debug\Recipe10-10Shared.pdb
+obj\Debug\Resources.resources

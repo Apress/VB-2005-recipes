@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe06_03.Resources.resources
+obj\Debug\Recipe06-03.vbproj.GenerateResource.Cache
+bin\Debug\Recipe06-03.exe
+bin\Debug\Recipe06-03.pdb
+bin\Debug\Recipe06-03.xml
+obj\Debug\Recipe06-03.exe
+obj\Debug\Recipe06-03.xml
+obj\Debug\Recipe06-03.pdb

@@ -1,0 +1,10 @@
+bin\Debug\Recipe07-16.exe
+bin\Debug\Recipe07-16.pdb
+bin\Debug\Recipe07-16.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe07-16.vbproj.GenerateResource.Cache
+obj\Debug\Recipe07-16.exe
+obj\Debug\Recipe07-16.xml
+obj\Debug\Recipe07-16.pdb
+obj\Debug\Apress.VisualBasicRecipes.Chapter07.Resources.resources
+obj\Debug\Apress.VisualBasicRecipes.Chapter07.Recipe07_16.resources

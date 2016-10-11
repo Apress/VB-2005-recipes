@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<ord:order xmlns:ord="http://mycompany/OrderML" xmlns:cli="http://mycompany/ClientML">
+
+	<cli:client>
+		<cli:firstName>Vicky</cli:firstName>
+		<cli:lastName>Kevin</cli:lastName>
+	</cli:client>
+	
+	<ord:orderItem itemNumber="3211" />
+	<ord:orderItem itemNumber="1155" />
+
+</ord:order>

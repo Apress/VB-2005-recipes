@@ -1,0 +1,15 @@
+bin\Debug\Recipe12-09.exe
+bin\Debug\Recipe12-09.pdb
+bin\Debug\Recipe12-09.xml
+bin\Debug\Interop.MSMask.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.MSMask.dll
+obj\Debug\Recipe12-09.vbproj.ResolveComReference.cache
+obj\Debug\Recipe12-09.vbproj.GenerateResource.Cache
+obj\Debug\Recipe12-09.exe
+obj\Debug\Recipe12-09.xml
+obj\Debug\Recipe12-09.pdb
+bin\Debug\AxInterop.MSMask.dll
+obj\Debug\AxInterop.MSMask.dll
+obj\Debug\Apress.VisualBasicRecipes.Chapter12.Resources.resources
+obj\Debug\Apress.VisualBasicRecipes.Chapter12.Recipe12_09.resources

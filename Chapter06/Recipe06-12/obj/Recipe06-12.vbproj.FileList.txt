@@ -1,0 +1,10 @@
+bin\Debug\Recipe06-12.exe
+bin\Debug\Recipe06-12.pdb
+bin\Debug\Recipe06-12.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Apress.VisualBasicRecipes.Chapter06.TransformXml.resources
+obj\Debug\Apress.VisualBasicRecipes.Chapter06.Resources.resources
+obj\Debug\Recipe06-12.vbproj.GenerateResource.Cache
+obj\Debug\Recipe06-12.exe
+obj\Debug\Recipe06-12.xml
+obj\Debug\Recipe06-12.pdb

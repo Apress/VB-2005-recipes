@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Installing service Recipe 14_06 Service...
+Service Recipe 14_06 Service has been successfully installed.
+Creating EventLog source Recipe 14_06 Service in log Application...
+Committing assembly 'C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Installing assembly 'C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.exe
+   logfile = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.InstallLog
+Installing service Recipe 14_06 Service...
+Creating EventLog source Recipe 14_06 Service in log Application...
+Rolling back assembly 'C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.exe
+   logfile = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.InstallLog
+Restoring event log to previous state for source Recipe 14_06 Service.
+Uninstalling assembly 'C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.exe
+   logfile = C:\Programming\Visual Basic 2005 Recipes\Chapter14\Recipe14-07\bin\Debug\recipe14-07.InstallLog
+Removing EventLog source Recipe 14_06 Service.
+Service Recipe 14_06 Service is being removed from the system...
+Service Recipe 14_06 Service was successfully removed from the system.

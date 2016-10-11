@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Recipe10-15
+</name>
+</assembly>
+<members>
+<member name="M:Recipe10_15.MyWebService.MyWebService.#ctor">
+	<remarks/>
+</member><member name="E:Recipe10_15.MyWebService.MyWebService.HelloWorldCompleted">
+	<remarks/>
+</member><member name="E:Recipe10_15.MyWebService.MyWebService.GetIISUserCompleted">
+	<remarks/>
+</member><member name="E:Recipe10_15.MyWebService.MyWebService.EchoCompleted">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.HelloWorld">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.HelloWorldAsync">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.HelloWorldAsync(System.Object)">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.GetIISUser">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.GetIISUserAsync">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.GetIISUserAsync(System.Object)">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.Echo(System.String,System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.EchoAsync(System.String,System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.EchoAsync(System.String,System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:Recipe10_15.MyWebService.MyWebService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.MyWebService">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.HelloWorldCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Recipe10_15.MyWebService.HelloWorldCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.HelloWorldCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.GetIISUserCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Recipe10_15.MyWebService.GetIISUserCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.GetIISUserCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.EchoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Recipe10_15.MyWebService.EchoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Recipe10_15.MyWebService.EchoCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

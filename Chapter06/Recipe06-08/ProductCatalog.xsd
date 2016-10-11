@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- Define the complex type product. -->
+  <xsd:complexType name="product">
+    <xsd:sequence>
+      <xsd:element name="productName" type="xsd:string" />
+      <xsd:element name="description" type="xsd:string" />
+      <xsd:element name="productPrice" type="xsd:decimal" />
+      <xsd:element name="inStock" type="xsd:boolean" />
+    </xsd:sequence>
+    <xsd:attribute name="id" type="xsd:integer" />
+  </xsd:complexType>
+  
+  <!-- This is the structure the document must match.
+       It begins with a productCatalog element that nests other elements.-->
+  <xsd:element name="productCatalog">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="catalogName" type="xsd:string" />
+        <xsd:element name="expiryDate" type="xsd:date" />
+
+        <xsd:element name="products">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="product" type="product" maxOccurs="unbounded" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType> 
+  </xsd:element>
+  
+</xsd:schema>

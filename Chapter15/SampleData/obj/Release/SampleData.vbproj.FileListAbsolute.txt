@@ -1,0 +1,18 @@
+C:\Programming\LINQ Samples\SampleData\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\LINQ Samples\SampleData\obj\Release\SampleData.Resources.resources
+C:\Programming\LINQ Samples\SampleData\obj\Release\SampleData.vbproj.GenerateResource.Cache
+C:\Programming\LINQ Samples\SampleData\bin\Release\SampleData.dll
+C:\Programming\LINQ Samples\SampleData\bin\Release\SampleData.pdb
+C:\Programming\LINQ Samples\SampleData\bin\Release\SampleData.xml
+C:\Programming\LINQ Samples\SampleData\obj\Release\SampleData.dll
+C:\Programming\LINQ Samples\SampleData\obj\Release\SampleData.xml
+C:\Programming\LINQ Samples\SampleData\obj\Release\SampleData.pdb
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\bin\Release\SampleData.dll
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\bin\Release\SampleData.pdb
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\bin\Release\SampleData.xml
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\obj\Release\ResolveAssemblyReference.cache
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\obj\Release\SampleData.Resources.resources
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\obj\Release\SampleData.vbproj.GenerateResource.Cache
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\obj\Release\SampleData.dll
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\obj\Release\SampleData.xml
+C:\Programming\Visual Basic 2005 Recipes\Chapter15\SampleData\obj\Release\SampleData.pdb

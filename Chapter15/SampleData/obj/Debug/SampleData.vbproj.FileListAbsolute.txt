@@ -1,0 +1,9 @@
+C:\Programming\LINQ Samples\SampleData\bin\Debug\SampleData.dll
+C:\Programming\LINQ Samples\SampleData\bin\Debug\SampleData.pdb
+C:\Programming\LINQ Samples\SampleData\bin\Debug\SampleData.xml
+C:\Programming\LINQ Samples\SampleData\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming\LINQ Samples\SampleData\obj\Debug\SampleData.Resources.resources
+C:\Programming\LINQ Samples\SampleData\obj\Debug\SampleData.vbproj.GenerateResource.Cache
+C:\Programming\LINQ Samples\SampleData\obj\Debug\SampleData.dll
+C:\Programming\LINQ Samples\SampleData\obj\Debug\SampleData.xml
+C:\Programming\LINQ Samples\SampleData\obj\Debug\SampleData.pdb

@@ -1,0 +1,12 @@
+F:\Programming\Orcas\Chapter15\Recipe15-12\obj\Release\ResolveAssemblyReference.cache
+F:\Programming\Orcas\Chapter15\Recipe15-12\obj\Release\Recipe15_12.Resources.resources
+F:\Programming\Orcas\Chapter15\Recipe15-12\obj\Release\Recipe15-12.vbproj.GenerateResource.Cache
+F:\Programming\Orcas\Chapter15\Recipe15-12\bin\Release\Recipe15-12.exe
+F:\Programming\Orcas\Chapter15\Recipe15-12\bin\Release\Recipe15-12.pdb
+F:\Programming\Orcas\Chapter15\Recipe15-12\bin\Release\Recipe15-12.xml
+F:\Programming\Orcas\Chapter15\Recipe15-12\bin\Release\SampleData.dll
+F:\Programming\Orcas\Chapter15\Recipe15-12\bin\Release\SampleData.pdb
+F:\Programming\Orcas\Chapter15\Recipe15-12\bin\Release\SampleData.xml
+F:\Programming\Orcas\Chapter15\Recipe15-12\obj\Release\Recipe15-12.exe
+F:\Programming\Orcas\Chapter15\Recipe15-12\obj\Release\Recipe15-12.xml
+F:\Programming\Orcas\Chapter15\Recipe15-12\obj\Release\Recipe15-12.pdb

@@ -1,0 +1,12 @@
+bin\Debug\Recipe10-18Client.exe
+bin\Debug\Recipe10-18Client.pdb
+bin\Debug\Recipe10-18Client.xml
+bin\Debug\Recipe10-16.dll
+bin\Debug\Recipe10-16.pdb
+bin\Debug\Recipe10-16.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Resources.resources
+obj\Debug\Recipe10-18Client.vbproj.GenerateResource.Cache
+obj\Debug\Recipe10-18Client.exe
+obj\Debug\Recipe10-18Client.xml
+obj\Debug\Recipe10-18Client.pdb

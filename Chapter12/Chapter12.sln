@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-01", "Recipe12-01\Recipe12-01.vbproj", "{643F560B-DD38-4BF0-96B1-4F847BA1BE7B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-02", "Recipe12-02\Recipe12-02.vbproj", "{DC91F70A-F851-4FBC-B084-718E3C4BA0DB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-03", "Recipe12-03\Recipe12-03.vbproj", "{5C88C853-7AA5-4E0F-92ED-60513C33EE65}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-04", "Recipe12-04\Recipe12-04.vbproj", "{1D0FDFA3-30AA-41B1-87C0-15B435818475}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-05", "Recipe12-05\Recipe12-05.vbproj", "{7FE2518A-A4FA-48A3-9137-F7ED1C04FFD5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-06", "Recipe12-06\Recipe12-06.vbproj", "{74FCC7FE-1409-4B1A-B754-AA42C5D4D954}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-08", "Recipe12-08\Recipe12-08.vbproj", "{6A87FF06-E398-4D29-94BB-2DCB58A5AABE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recipe12-09", "Recipe12-09\Recipe12-09.vbproj", "{3509B67F-B5B9-492C-B2A5-7439D3492721}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643F560B-DD38-4BF0-96B1-4F847BA1BE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643F560B-DD38-4BF0-96B1-4F847BA1BE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643F560B-DD38-4BF0-96B1-4F847BA1BE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643F560B-DD38-4BF0-96B1-4F847BA1BE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC91F70A-F851-4FBC-B084-718E3C4BA0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC91F70A-F851-4FBC-B084-718E3C4BA0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC91F70A-F851-4FBC-B084-718E3C4BA0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC91F70A-F851-4FBC-B084-718E3C4BA0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C88C853-7AA5-4E0F-92ED-60513C33EE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C88C853-7AA5-4E0F-92ED-60513C33EE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C88C853-7AA5-4E0F-92ED-60513C33EE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C88C853-7AA5-4E0F-92ED-60513C33EE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0FDFA3-30AA-41B1-87C0-15B435818475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0FDFA3-30AA-41B1-87C0-15B435818475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0FDFA3-30AA-41B1-87C0-15B435818475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0FDFA3-30AA-41B1-87C0-15B435818475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE2518A-A4FA-48A3-9137-F7ED1C04FFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE2518A-A4FA-48A3-9137-F7ED1C04FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE2518A-A4FA-48A3-9137-F7ED1C04FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE2518A-A4FA-48A3-9137-F7ED1C04FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FCC7FE-1409-4B1A-B754-AA42C5D4D954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FCC7FE-1409-4B1A-B754-AA42C5D4D954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FCC7FE-1409-4B1A-B754-AA42C5D4D954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FCC7FE-1409-4B1A-B754-AA42C5D4D954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A87FF06-E398-4D29-94BB-2DCB58A5AABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A87FF06-E398-4D29-94BB-2DCB58A5AABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A87FF06-E398-4D29-94BB-2DCB58A5AABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A87FF06-E398-4D29-94BB-2DCB58A5AABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3509B67F-B5B9-492C-B2A5-7439D3492721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3509B67F-B5B9-492C-B2A5-7439D3492721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3509B67F-B5B9-492C-B2A5-7439D3492721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3509B67F-B5B9-492C-B2A5-7439D3492721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
